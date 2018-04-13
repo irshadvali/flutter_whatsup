@@ -8,8 +8,6 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 # flutter_whatsup
 
-
-# RNHorizontalView
 # Working in android and ios
 
 
